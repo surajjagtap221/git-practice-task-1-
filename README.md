@@ -344,9 +344,12 @@ docs/
     ├── task5-pr-featureA.png
     │   └── Pull Request created for feature-A
     │
-    ├── task6-featureB-pr.png
-    │   └── Pull Request created for feature-B
+    ├── task6-featureB-modify&push.png
+    │   └── modify same line as above and push to feature-B
     │
+    ├── task6-featureB-pr.png
+    |    └── Pull Request created for feature-B
+    |
     ├── task7-conflict-featureA.png
     │   └── Conflict scenario after feature-A merge
     │
