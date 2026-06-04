@@ -56,7 +56,6 @@ git-practice-task
 
 ### Screenshot
 
-Add screenshot here:
 
 ```text
 docs/screenshots/task1-github-repo.png
