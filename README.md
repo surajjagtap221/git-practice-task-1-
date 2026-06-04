@@ -361,24 +361,77 @@ docs/screenshots/task13-branch-protection.png
 
 Create the following folder structure:
 
+# 📸 Screenshots Included
+
 ```text
 docs/
 └── screenshots/
-    ├── task1-github-repo.png
-    ├── task2-clone.png
-    ├── task3-readme-update.png
-    ├── task4-featureA.png
-    ├── task5-pr-featureA.png
-    ├── task6-featureB-pr.png
-    ├── task7-merge-featureA.png
-    ├── task8-conflict-resolution.png
-    ├── task9-merge-featureB.png
-    ├── task10-fork-pr.png
-    ├── task11-gitlab-repo.png
-    ├── task12-mirroring.png
-    └── task13-branch-protection.png
+    ├── task1-github-repo.png.png
+    │   └── GitHub repository created
+    │
+    ├── task2-clone.png.png
+    │   └── Repository cloned locally
+    │
+    ├── task3-readme-update.png.png
+    │   └── README updated with assignment details
+    │
+    ├── task4-main.png.png
+    │   └── Initial changes pushed to main branch
+    │
+    ├── task4-featureA.png.png
+    │   └── feature-A branch creation and changes
+    │
+    ├── task5-pr-featureA.png.png
+    │   └── Pull Request created for feature-A
+    │
+    ├── task6-featureB-pr.png.png
+    │   └── Pull Request created for feature-B
+    │
+    ├── task7-conflict-featureA.png.png
+    │   └── Conflict scenario after feature-A merge
+    │
+    ├── task7-merge-featureA.png.png
+    │   └── feature-A merged into main
+    │
+    ├── task8-conflict-occured.png.png
+    │   └── Merge conflict encountered
+    │
+    ├── task8-conflict-resolution.png.png
+    │   └── Merge conflict resolved manually
+    │
+    ├── task9-merge-featureB.png.png
+    │   └── feature-B merged successfully
+    │
+    ├── task9-merge-all-branch.png.png
+    │   └── Verification of all merged changes
+    │
+    ├── task10-fork-create.png.png
+    │   └── Public repository forked
+    │
+    ├── task10-fork-clone.png.png
+    │   └── Fork cloned locally
+    │
+    ├── task10-redme-modify.png.png
+    │   └── README modified in forked repository
+    │
+    ├── task10-fork-pr.png.png
+    │   └── Pull Request created in fork
+    │
+    ├── task11-gitlab-repo.png.png
+    │   └── GitLab repository created
+    │
+    ├── task11-gitlab-repo-clone.png.png
+    │   └── GitLab repository cloned via SSH
+    │
+    ├── task11-gitlab-structure.png.png
+    │   └── Project directory structure created
+    │
+    ├── task12-mirroring.png.png
+    │   └── GitLab to GitHub repository mirroring
+    │
+    └── task13-branch-protection.png.png
+        └── Branch protection rules configured
 ```
-
 ---
 
 #  Technologies Used
