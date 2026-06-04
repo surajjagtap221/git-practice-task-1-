@@ -144,7 +144,11 @@ Created branch:
 git switch -c feature-B
 ```
 
-Modified same lines in `index.html`.
+Modified same lines in `index.html` and push.
+
+### Screenshot
+
+![](docs/screenshots/task6-featureB-modify&push.png)
 
 Created Pull Request:
 
