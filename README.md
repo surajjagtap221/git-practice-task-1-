@@ -2,7 +2,7 @@
 practice exam of the FCT
 # Git & GitLab Practical Assignment
 
-## 📌 Project Overview
+##  Project Overview
 
 This repository demonstrates practical Git and GitLab operations including:
 
@@ -17,39 +17,36 @@ This repository demonstrates practical Git and GitLab operations including:
 
 ---
 
-## 👨‍💻 Candidate Details
+##  Candidate Details
 
 | Field | Details |
 |---------|---------|
-| Name | YOUR_NAME |
-| Batch | YOUR_BATCH |
-| Course | DevOps |
+| Name | Suraj Jagtap |
+| Batch | 03-Nov |
+| Course | AWS & DevOps |
 | Assignment | Git & GitLab Practical Assignment |
 
 ---
 
-## 🔗 Repository Links
+##  Repository Links
 
 ### GitHub Repository
-Add your GitHub repository URL here:
 
 ```text
-https://github.com/USERNAME/git-practice-task
+https://github.com/surajjagtap221/git-practice-task
 ```
 
 ### GitLab Repository
 
-Add your GitLab repository URL here:
-
 ```text
-https://gitlab.com/USERNAME/git-practice-task
+https://gitlab.com/surajjagtap221/my-project-for-mirror.git
 ```
 
 ---
 
 # Task Completion Report
 
-## ✅ Task 1: GitHub Repository Creation
+##  Task 1: GitHub Repository Creation
 
 Created a public GitHub repository named:
 
@@ -67,14 +64,14 @@ docs/screenshots/task1-github-repo.png
 
 ---
 
-## ✅ Task 2: Repository Clone
+##  Task 2: Repository Clone
 
 Repository cloned successfully to local machine.
 
 ### Commands Used
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/surajjagtap221/git-practice-task.git
 cd git-practice-task
 ```
 
@@ -88,14 +85,14 @@ docs/screenshots/task2-clone.png
 
 ---
 
-## ✅ Task 3: Initial Development on Main Branch
+##  Task 3: Initial Development on Main Branch
 
 Updated README with:
 
-- Assignment Title
-- Candidate Name
-- Batch Name
-- Course Name
+
+- Name
+- Batch 
+- Course
 
 ### Commit
 
@@ -113,33 +110,31 @@ docs/screenshots/task3-readme-update.png
 
 ---
 
-## ✅ Task 4: Feature-A Branch
+##  Task 4: Feature-A Branch
 
 Created branch:
 
 ```bash
-git checkout -b feature-A
+git switch -c feature-A
 ```
 
-Created:
+Created: From main branch
 
 ```text
 index.html
 ```
 
-Committed and pushed changes.
+Committed and pushed changes from main branch and then after feature-A branch.
 
 ### Screenshot
-
-Add screenshot here:
-
 ```text
+docs/screenshots/task4-main.png
 docs/screenshots/task4-featureA.png
 ```
 
 ---
 
-## ✅ Task 5: Pull Request (Feature-A)
+##  Task 5: Pull Request (Feature-A)
 
 Created Pull Request:
 
@@ -149,7 +144,7 @@ feature-A → main
 
 ### Screenshot
 
-Add screenshot here:
+
 
 ```text
 docs/screenshots/task5-pr-featureA.png
@@ -157,12 +152,12 @@ docs/screenshots/task5-pr-featureA.png
 
 ---
 
-## ✅ Task 6: Feature-B Branch
+##  Task 6: Feature-B Branch
 
 Created branch:
 
 ```bash
-git checkout -b feature-B
+git switch -c feature-B
 ```
 
 Modified same lines in `index.html`.
@@ -175,7 +170,7 @@ feature-B → main
 
 ### Screenshot
 
-Add screenshot here:
+
 
 ```text
 docs/screenshots/task6-featureB-pr.png
@@ -183,21 +178,23 @@ docs/screenshots/task6-featureB-pr.png
 
 ---
 
-## ✅ Task 7: Merge Feature-A
+##  Task 7: Merge Feature-A
 
-Reviewed and merged Feature-A into main.
+Attempted merge of Feature-B and encountered conflict. Reviewed and merged Feature-A into main.
+
 
 ### Screenshot
 
 Add screenshot here:
 
 ```text
+docs/screenshots/task7-conflict-featureA.png
 docs/screenshots/task7-merge-featureA.png
 ```
 
 ---
 
-## ✅ Task 8: Merge Conflict Resolution
+## Task 8: Merge Conflict Resolution
 
 Attempted merge of Feature-B and encountered conflict.
 
@@ -213,12 +210,13 @@ Attempted merge of Feature-B and encountered conflict.
 Add screenshot here:
 
 ```text
+docs/screenshots/task8-conflict-occured.png
 docs/screenshots/task8-conflict-resolution.png
 ```
 
 ---
 
-## ✅ Task 9: Merge Feature-B
+##  Task 9: Merge Feature-B
 
 Successfully merged Feature-B after conflict resolution.
 
@@ -229,10 +227,14 @@ Add screenshot here:
 ```text
 docs/screenshots/task9-merge-featureB.png
 ```
+### final merge of all branch
 
+```text
+docs/screenshots/task9-merge-all-branch.png
+```
 ---
 
-## ✅ Task 10: Fork and Contribution
+##  Task 10: Fork and Contribution
 
 Forked a public repository.
 
@@ -245,7 +247,23 @@ Performed:
 
 ### Screenshot
 
-Add screenshot here:
+Create fork
+
+```text
+docs/screenshots/task10-fork-create.png
+```
+
+Clone fork
+
+```text
+docs/screenshots/task10-fork-clone.png
+```
+Readme.md modification
+
+```text
+docs/screenshots/task10-redme-modify.png
+```
+Create Pull Request
 
 ```text
 docs/screenshots/task10-fork-pr.png
@@ -253,7 +271,7 @@ docs/screenshots/task10-fork-pr.png
 
 ---
 
-## ✅ Task 11: GitLab Repository Setup
+##  Task 11: GitLab Repository Setup
 
 Created private GitLab repository.
 
@@ -270,15 +288,17 @@ project/
 
 ### Screenshot
 
-Add screenshot here:
+Gitlab repo, it's Clone and above structure
 
 ```text
 docs/screenshots/task11-gitlab-repo.png
+docs/screenshots/task11-gitlab-repo-clone.png
+docs/screenshots/task11-gitlab-structure.png
 ```
 
 ---
 
-## ✅ Task 12: Repository Mirroring
+##  Task 12: Repository Mirroring
 
 Configured repository mirroring:
 
@@ -290,15 +310,13 @@ Verified automatic synchronization.
 
 ### Screenshot
 
-Add screenshot here:
-
 ```text
 docs/screenshots/task12-mirroring.png
 ```
 
 ---
 
-## ✅ Task 13: Branch Protection
+##  Task 13: Branch Protection
 
 Configured branch protection for:
 
@@ -322,7 +340,7 @@ docs/screenshots/task13-branch-protection.png
 
 ---
 
-## ✅ Task 14: Final Verification Checklist
+##  Task 14: Final Verification Checklist
 
 | Requirement | Status |
 |------------|---------|
@@ -339,7 +357,7 @@ docs/screenshots/task13-branch-protection.png
 
 ---
 
-# 📸 Required Screenshots
+#  Required Screenshots
 
 Create the following folder structure:
 
@@ -363,7 +381,7 @@ docs/
 
 ---
 
-# 🛠 Technologies Used
+#  Technologies Used
 
 - Git
 - GitHub
@@ -375,6 +393,6 @@ docs/
 
 ---
 
-# 📄 Conclusion
+#  Conclusion
 
 This assignment demonstrates practical usage of Git and GitLab workflows including collaboration, branching strategies, conflict resolution, repository synchronization, and branch protection mechanisms commonly used in DevOps environments.
