@@ -321,7 +321,7 @@ Add screenshot here:
 
 Create the following folder structure:
 
-# 📸 Screenshots Included
+# Screenshots Included
 
 ```text
 docs/
