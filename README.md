@@ -57,10 +57,7 @@ git-practice-task
 ### Screenshot
 
 
-```text
-docs/screenshots/task1-github-repo.png
-```
-
+![](docs/screenshots/task1-github-repo.png)
 ---
 
 ##  Task 2: Repository Clone
@@ -76,11 +73,8 @@ cd git-practice-task
 
 ### Screenshot
 
-Add screenshot here:
 
-```text
-docs/screenshots/task2-clone.png
-```
+![](docs/screenshots/task2-clone.png)
 
 ---
 
@@ -89,23 +83,20 @@ docs/screenshots/task2-clone.png
 Updated README with:
 
 
-- Name
-- Batch 
-- Course
+- Name : Suraj Jagtap
+- Batch : 03-Nov
+- Course : MCA - AWS & DevOps
 
 ### Commit
 
 ```bash
-git commit -m "Initial README update"
+git commit -m "updated readme.md file"
 ```
 
 ### Screenshot
 
-Add screenshot here:
 
-```text
-docs/screenshots/task3-readme-update.png
-```
+![](docs/screenshots/task3-readme-update.png)
 
 ---
 
@@ -126,10 +117,9 @@ index.html
 Committed and pushed changes from main branch and then after feature-A branch.
 
 ### Screenshot
-```text
-docs/screenshots/task4-main.png
-docs/screenshots/task4-featureA.png
-```
+
+![main branch push](docs/screenshots/task4-main.png)
+![feature-A branch push](docs/screenshots/task4-featureA.png)
 
 ---
 
@@ -143,11 +133,7 @@ feature-A → main
 
 ### Screenshot
 
-
-
-```text
-docs/screenshots/task5-pr-featureA.png
-```
+![](docs/screenshots/task5-pr-featureA.png)
 
 ---
 
@@ -169,11 +155,7 @@ feature-B → main
 
 ### Screenshot
 
-
-
-```text
-docs/screenshots/task6-featureB-pr.png
-```
+![](docs/screenshots/task6-featureB-pr.png)
 
 ---
 
@@ -186,10 +168,8 @@ Attempted merge of Feature-B and encountered conflict. Reviewed and merged Featu
 
 Add screenshot here:
 
-```text
-docs/screenshots/task7-conflict-featureA.png
-docs/screenshots/task7-merge-featureA.png
-```
+![](docs/screenshots/task7-conflict-featureA)
+![](docs/screenshots/task7-merge-featureA)
 
 ---
 
@@ -206,12 +186,8 @@ Attempted merge of Feature-B and encountered conflict.
 
 ### Screenshot
 
-Add screenshot here:
-
-```text
-docs/screenshots/task8-conflict-occured.png
-docs/screenshots/task8-conflict-resolution.png
-```
+![](docs/screenshots/task8-conflict-occured)
+![](docs/screenshots/task8-conflict-resolution)
 
 ---
 
@@ -221,16 +197,12 @@ Successfully merged Feature-B after conflict resolution.
 
 ### Screenshot
 
-Add screenshot here:
+![](docs/screenshots/task9-merge-featureB.png)
 
-```text
-docs/screenshots/task9-merge-featureB.png
-```
 ### final merge of all branch
 
-```text
-docs/screenshots/task9-merge-all-branch.png
-```
+![](docs/screenshots/task9-merge-all-branch)
+
 ---
 
 ##  Task 10: Fork and Contribution
@@ -248,25 +220,19 @@ Performed:
 
 Create fork
 
-```text
-docs/screenshots/task10-fork-create.png
-```
+![](docs/screenshots/task10-fork-create)
 
 Clone fork
 
-```text
-docs/screenshots/task10-fork-clone.png
-```
+![](docs/screenshots/task10-fork-clone)
+
 Readme.md modification
 
-```text
-docs/screenshots/task10-redme-modify.png
-```
+![](docs/screenshots/task10-redme-modify)
+
 Create Pull Request
 
-```text
-docs/screenshots/task10-fork-pr.png
-```
+![](docs/screenshots/task10-fork-pr)
 
 ---
 
@@ -289,11 +255,9 @@ project/
 
 Gitlab repo, it's Clone and above structure
 
-```text
-docs/screenshots/task11-gitlab-repo.png
-docs/screenshots/task11-gitlab-repo-clone.png
-docs/screenshots/task11-gitlab-structure.png
-```
+![](docs/screenshots/task11-gitlab-repo)
+![](docs/screenshots/task11-gitlab-repo-clone)
+![](docs/screenshots/task11-gitlab-structure)
 
 ---
 
@@ -309,9 +273,7 @@ Verified automatic synchronization.
 
 ### Screenshot
 
-```text
-docs/screenshots/task12-mirroring.png
-```
+![](docs/screenshots/task12-mirroring)
 
 ---
 
@@ -333,9 +295,7 @@ Rules applied:
 
 Add screenshot here:
 
-```text
-docs/screenshots/task13-branch-protection.png
-```
+![](docs/screenshots/task13-branch-protection)
 
 ---
 
