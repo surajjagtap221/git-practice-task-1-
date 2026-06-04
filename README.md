@@ -73,7 +73,6 @@ cd git-practice-task
 
 ### Screenshot
 
-
 ![](docs/screenshots/task2-clone.png)
 
 ---
@@ -161,15 +160,13 @@ feature-B → main
 
 ##  Task 7: Merge Feature-A
 
-Attempted merge of Feature-B and encountered conflict. Reviewed and merged Feature-A into main.
+Attempted merge of Feature-A and encountered conflict. Reviewed and merged Feature-A into main.
 
 
 ### Screenshot
 
-Add screenshot here:
-
-![](docs/screenshots/task7-conflict-featureA)
-![](docs/screenshots/task7-merge-featureA)
+![](docs/screenshots/task7-conflict-featureA.png)
+![](docs/screenshots/task7-merge-featureA.png)
 
 ---
 
@@ -186,8 +183,8 @@ Attempted merge of Feature-B and encountered conflict.
 
 ### Screenshot
 
-![](docs/screenshots/task8-conflict-occured)
-![](docs/screenshots/task8-conflict-resolution)
+![](docs/screenshots/task8-conflict-occured.png)
+![](docs/screenshots/task8-conflict-resolution.png)
 
 ---
 
@@ -201,7 +198,7 @@ Successfully merged Feature-B after conflict resolution.
 
 ### final merge of all branch
 
-![](docs/screenshots/task9-merge-all-branch)
+![](docs/screenshots/task9-merge-all-branch.png)
 
 ---
 
@@ -220,19 +217,19 @@ Performed:
 
 Create fork
 
-![](docs/screenshots/task10-fork-create)
+![](docs/screenshots/task10-fork-create.png)
 
 Clone fork
 
-![](docs/screenshots/task10-fork-clone)
+![](docs/screenshots/task10-fork-clone.png)
 
 Readme.md modification
 
-![](docs/screenshots/task10-redme-modify)
+![](docs/screenshots/task10-redme-modify.png)
 
 Create Pull Request
 
-![](docs/screenshots/task10-fork-pr)
+![](docs/screenshots/task10-fork-pr.png)
 
 ---
 
@@ -255,9 +252,9 @@ project/
 
 Gitlab repo, it's Clone and above structure
 
-![](docs/screenshots/task11-gitlab-repo)
-![](docs/screenshots/task11-gitlab-repo-clone)
-![](docs/screenshots/task11-gitlab-structure)
+![](docs/screenshots/task11-gitlab-repo.png)
+![](docs/screenshots/task11-gitlab-repo-clone.png)
+![](docs/screenshots/task11-gitlab-structure.png)
 
 ---
 
@@ -273,7 +270,7 @@ Verified automatic synchronization.
 
 ### Screenshot
 
-![](docs/screenshots/task12-mirroring)
+![](docs/screenshots/task12-mirroring.png)
 
 ---
 
@@ -295,7 +292,7 @@ Rules applied:
 
 Add screenshot here:
 
-![](docs/screenshots/task13-branch-protection)
+![](docs/screenshots/task13-branch-protection.png)
 
 ---
 
@@ -325,70 +322,70 @@ Create the following folder structure:
 ```text
 docs/
 └── screenshots/
-    ├── task1-github-repo.png.png
+    ├── task1-github-repo.png
     │   └── GitHub repository created
     │
-    ├── task2-clone.png.png
+    ├── task2-clone.png
     │   └── Repository cloned locally
     │
-    ├── task3-readme-update.png.png
+    ├── task3-readme-update.png
     │   └── README updated with assignment details
     │
-    ├── task4-main.png.png
+    ├── task4-main.png
     │   └── Initial changes pushed to main branch
     │
-    ├── task4-featureA.png.png
+    ├── task4-featureA.png
     │   └── feature-A branch creation and changes
     │
-    ├── task5-pr-featureA.png.png
+    ├── task5-pr-featureA.png
     │   └── Pull Request created for feature-A
     │
-    ├── task6-featureB-pr.png.png
+    ├── task6-featureB-pr.png
     │   └── Pull Request created for feature-B
     │
-    ├── task7-conflict-featureA.png.png
+    ├── task7-conflict-featureA.png
     │   └── Conflict scenario after feature-A merge
     │
-    ├── task7-merge-featureA.png.png
+    ├── task7-merge-featureA.png
     │   └── feature-A merged into main
     │
-    ├── task8-conflict-occured.png.png
+    ├── task8-conflict-occured.png
     │   └── Merge conflict encountered
     │
-    ├── task8-conflict-resolution.png.png
+    ├── task8-conflict-resolution.png
     │   └── Merge conflict resolved manually
     │
-    ├── task9-merge-featureB.png.png
+    ├── task9-merge-featureB.png
     │   └── feature-B merged successfully
     │
-    ├── task9-merge-all-branch.png.png
+    ├── task9-merge-all-branch.png
     │   └── Verification of all merged changes
     │
-    ├── task10-fork-create.png.png
+    ├── task10-fork-create.png
     │   └── Public repository forked
     │
-    ├── task10-fork-clone.png.png
+    ├── task10-fork-clone.png
     │   └── Fork cloned locally
     │
-    ├── task10-redme-modify.png.png
+    ├── task10-redme-modify.png
     │   └── README modified in forked repository
     │
-    ├── task10-fork-pr.png.png
+    ├── task10-fork-pr.png
     │   └── Pull Request created in fork
     │
-    ├── task11-gitlab-repo.png.png
+    ├── task11-gitlab-repo.png
     │   └── GitLab repository created
     │
-    ├── task11-gitlab-repo-clone.png.png
+    ├── task11-gitlab-repo-clone.png
     │   └── GitLab repository cloned via SSH
     │
-    ├── task11-gitlab-structure.png.png
+    ├── task11-gitlab-structure.png
     │   └── Project directory structure created
     │
-    ├── task12-mirroring.png.png
+    ├── task12-mirroring.png
     │   └── GitLab to GitHub repository mirroring
     │
-    └── task13-branch-protection.png.png
+    └── task13-branch-protection.png
         └── Branch protection rules configured
 ```
 ---
